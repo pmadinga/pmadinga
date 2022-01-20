@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning web development for e-commerce platforms 
 
 JavaScript | GatsbyJS | GraphQL | TailwindCSS | VSCode | CRA | GCP | Azure | FullStack
+- [ https://fervent-bose-387d10.netlify.app ](folio)
+- 
